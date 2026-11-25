@@ -1,7 +1,7 @@
-# 🍕 Pizza Sales Analysis — SQL + Power BI
+#  Pizza Sales Analysis — SQL + Power BI
 
 An end-to-end sales analysis of a pizza restaurant for **Jan 2015 – Dec 2015**.
-SQL (T-SQL / SQL Server) is used to calculate the business KPIs and trends, and
+SQL ( SQL Server) is used to calculate the business KPIs and trends, and
 Power BI is used to turn the same numbers into an interactive 2-page dashboard.
 
 ---
@@ -85,10 +85,12 @@ The work has two parts:
 
 Navigation between the two pages is done with **Page Navigator** buttons.
 
-> 📸 Add your screenshots in an `images/` folder and they will show here:
->
-> ![Home Page](images/home-page.png)
-> ![Best/Worst Seller Page](images/best-worst-seller-page.png)
+# screenshots
+
+<img width="1258" height="762" alt="Screenshot 2026-11-25 111331" src="https://github.com/user-attachments/assets/660ced64-ebec-49a5-978d-47ca7edfaced" />
+<img width="1245" height="758" alt="Screenshot 2026-11-25 111408" src="https://github.com/user-attachments/assets/b6360dd5-f75a-41e8-b8e3-a652ea2fcfcf" />
+<img width="1235" height="762" alt="Screenshot 2026-11-25 111447" src="https://github.com/user-attachments/assets/62642b3e-a893-4683-9ad9-a8b3d68b0d13" />
+
 
 ---
 
