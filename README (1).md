@@ -6,7 +6,7 @@ Power BI is used to turn the same numbers into an interactive 2-page dashboard.
 
 ---
 
-## 📌 Table of Contents
+##  Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Tools Used](#-tools-used)
 3. [Dataset](#-dataset)
@@ -21,7 +21,7 @@ Power BI is used to turn the same numbers into an interactive 2-page dashboard.
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 The goal of this project is to answer simple business questions about a pizza
 restaurant:
@@ -38,7 +38,7 @@ The work has two parts:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 | Tool | Purpose |
 |------|---------|
@@ -48,7 +48,7 @@ The work has two parts:
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 - **Table:** `pizza_sales`
 - **Period:** 01 Jan 2015 – 31 Dec 2015
@@ -66,7 +66,7 @@ The work has two parts:
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 
 ### Page 1: HOME
 - 5 KPI cards: Total Revenue, Avg Order Value, Total Pizzas Sold, Total Orders, Avg Pizzas per Order
@@ -94,7 +94,7 @@ Navigation between the two pages is done with **Page Navigator** buttons.
 
 ---
 
-## 🎯 KPIs
+##  KPIs
 
 | KPI | Value |
 |-----|-------|
@@ -106,7 +106,7 @@ Navigation between the two pages is done with **Page Navigator** buttons.
 
 ---
 
-## 🧾 SQL Queries
+##  SQL Queries
 
 All queries are written for **SQL Server (T-SQL)** and run on the `pizza_sales` table.
 
@@ -239,7 +239,7 @@ ORDER BY Total_Orders ASC;
 
 ---
 
-## 🔗 SQL Query to Dashboard Mapping
+##  SQL Query to Dashboard Mapping
 
 | SQL Query | Power BI Visual | Page |
 |-----------|-----------------|------|
@@ -255,7 +255,7 @@ ORDER BY Total_Orders ASC;
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **Weekends are the busiest:** orders are highest on Friday and Saturday evenings.
 - **Peak months:** July and January have the maximum orders.
@@ -272,7 +272,7 @@ ORDER BY Total_Orders ASC;
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 pizza-sales-analysis/
@@ -289,25 +289,14 @@ pizza-sales-analysis/
 
 ---
 
-## ▶️ How to Use
 
-1. **Clone** this repository.
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   ```
-2. Open the `.pbix` file in **Power BI Desktop**.
-3. In Power BI Desktop, use **Ctrl + Click** on the navigation buttons to switch pages.
-   After publishing, a normal click works.
-4. To practise the SQL, load the pizza sales data into a table named `pizza_sales`
-   in **SQL Server** and run the queries from the [SQL Queries](#-sql-queries) section.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Balaga Manohar Babu**
-- GitHub: [your-github-link]
-- LinkedIn: [your-linkedin-link]
-- Email: [your-email]
+- LinkedIn: [www.linkedin.com/in/manoharbabu-balaga-]
+- Email: [balagamanoharbabu123@gmail.com]
 
-⭐ If you like this project, please give it a star!
+
