@@ -42,7 +42,7 @@ The work has two parts:
 
 | Tool | Purpose |
 |------|---------|
-| SQL Server (T-SQL) | Writing queries for KPIs, trends and top/bottom analysis |
+| SQL Server | Writing queries for KPIs, trends and top/bottom analysis |
 | Power BI Desktop | Dashboard design, measures, slicers and page navigation |
 | DAX | Measures used in the dashboard (Total Revenue, Total orders, etc.) |
 
